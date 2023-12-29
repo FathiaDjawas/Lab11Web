@@ -49,7 +49,8 @@
 
 **4. Hasil Output Halaman Home :**
 
-![ss11](https://github.com/FathiaDjawas/Lab11web/assets/116045324/fd71a9fc-0e1f-49da-a030-0ad42cbbe1e5)
+![Screenshot (422)](https://github.com/FathiaDjawas/Lab11Web/assets/115916422/090277b8-499c-4e30-aa23-26dc4beb9ca8)
+
 
 
 **7. Hasil Output Halaman About :**
@@ -60,7 +61,8 @@
 
 **8. Hasil Output Halaman Contact :**
 
-![ss13](https://github.com/FathiaDjawas/Lab11web/assets/116045324/f57681d7-12cc-40f7-b34e-b8a54200a918)
+![Screenshot (423)](https://github.com/FathiaDjawas/Lab11Web/assets/115916422/e095042c-b19b-4c0a-b79c-a5d49025d18e)
+
 
 
 ## Selesai, Terima Kasih
