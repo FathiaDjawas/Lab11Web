@@ -47,4 +47,22 @@
 
 ![3](https://github.com/tiaraputriiiiii/Lab11Web/assets/115775237/ff545e31-7eed-4754-8001-7474b236743a)
 
+**4. Hasil Output Halaman Home :**
+
+![ss11](https://github.com/FathiaDjawas/Lab11web/assets/116045324/fd71a9fc-0e1f-49da-a030-0ad42cbbe1e5)
+
+
+**7. Hasil Output Halaman About :**
+
+![Screenshot (418)](https://github.com/FathiaDjawas/Lab11Web/assets/115916422/d8c476e1-c38e-40d6-98ca-5906e3892adc)
+
+
+
+**8. Hasil Output Halaman Contact :**
+
+![ss13](https://github.com/FathiaDjawas/Lab11web/assets/116045324/f57681d7-12cc-40f7-b34e-b8a54200a918)
+
+
+## Selesai, Terima Kasih
+
 
